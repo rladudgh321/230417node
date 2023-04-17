@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "cookie": "^0.5.0",
     "sanitize-html": "^2.10.0"
   }
 }
